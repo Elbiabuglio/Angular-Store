@@ -1,9 +1,10 @@
-.home-page__container {
-	margin-top: 144px;
-}
+.home__container{
+	width: 90%;
+	margin: auto;
+	padding-top: 50px;
+	display: flex;
 
-@media (min-width: 768px) {
-	.home-page__container {
-		margin-top: 80px;
-	}
+	justify-content: space-around;
+	align-items: baseline;
+	flex-wrap: wrap;
 }
