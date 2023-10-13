@@ -1,27 +1,24 @@
-# AngularStore
+## Criar Clone da PSN Store com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
-## Development server
+Bootcamp Santander Fullstack Java + Angular com o desafio de criar um clone da PSN Store usando Angular.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+![image](https://github.com/Elbiabuglio/Angular-Store/assets/101484328/bfa91a75-f8af-4b8f-ab48-862638407c5d)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Para rodar o projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+Garanta que você tem o node e o git instalado em sua máquina;
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Faça o clone do projeto com git clone https://github.com/Elbiabuglio/Angular-Store
 
-## Running end-to-end tests
+Entre na pasta DIO_Angular_Blog com cd .\DIO_Angular_Blog\ e instale as dependências com npm install;
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Se não tiver o Angular CLI instalado na sua máquina, instale-o globalmente com o código npm install -g @angular/cli
 
-## Further help
+Rode a aplicação com ng serve. O app será executado na porta http://localhost:4200/
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
